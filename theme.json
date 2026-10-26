@@ -1,0 +1,45 @@
+{
+  "slug": "leozh-matrix-quiet",
+  "name": "Matrix (no screensaver)",
+  "emoji": "💊",
+  "level": 1,
+  "formatVersion": 1,
+  "fonts": [
+    {
+      "family": "Courier Prime",
+      "file": "courierprime-regular.ttf",
+      "weight": 400,
+      "role": "sans"
+    },
+    {
+      "family": "Courier Prime",
+      "file": "courierprime-regular.ttf",
+      "weight": 500,
+      "role": "sans"
+    },
+    {
+      "family": "Courier Prime",
+      "file": "courierprime-bold.ttf",
+      "weight": 600,
+      "role": "sans"
+    },
+    {
+      "family": "Courier Prime",
+      "file": "courierprime-bold.ttf",
+      "weight": 700,
+      "role": "sans"
+    },
+    {
+      "family": "Courier Prime",
+      "file": "courierprime-regular.ttf",
+      "weight": 400,
+      "role": "mono"
+    },
+    {
+      "family": "Courier Prime",
+      "file": "courierprime-bold.ttf",
+      "weight": 700,
+      "role": "mono"
+    }
+  ]
+}
