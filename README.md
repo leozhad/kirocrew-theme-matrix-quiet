@@ -1,5 +1,7 @@
 # Kiro Crew theme: Matrix (no screensaver)
 
+> **Retired on Nov 17, 2026.** Since Kiro Crew 0.12.0 you get the same look from the [Matrix pack](https://github.com/leozhad/kirocrew-theme-matrix) with Settings → Display → Theme → Experience → **Overlays** turned off. Install that pack instead. This repo is archived and gets no further updates.
+
 An unofficial [Kiro Crew](https://github.com/kirodotdev/KiroCrew) theme pack modeled on the computer screens in *The Matrix* (1999).
 
 This is the full [Matrix pack](https://github.com/leozhad/kirocrew-theme-matrix) without the idle screensaver. The colors, fonts and cursor are the same.
